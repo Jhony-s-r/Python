@@ -4,7 +4,8 @@
 
 ```sh
 
- - Código de entrada automática em qualquer site que peça login e senha
+ - Código de entrada automática em qualquer site que peça login e senha.
+ - Código para baixar arquivo somar valores de uma tabela e enviar e-mail de relatorio.
  
  ```
  
